@@ -1,3 +1,9 @@
+.container{
+    width: 1180px;
+    margin-left: 20%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .header{
     background-color:cornflowerblue;
     background-image: url("../img/pattern.png");
@@ -34,8 +40,20 @@ main{
     font-size: 22px;
 }
 
-.container{
-    width: 1180px;
-    margin-left: 20%;
-    font-family: 'Times New Roman', Times, serif;
+.monitor{
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+    height: 200px;
+    width: auto;
+    color: white;
+    font-size: 150%;
 }
+.graph{
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    height: 200px;
+    width: auto;
+    color: white;
+    font-size: 150%;
+}
+
