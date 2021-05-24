@@ -1,5 +1,5 @@
 .container{
-    width: 1180px;
+    width: 1250px;
     margin-left: 20%;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -38,6 +38,14 @@ b{
 
 main{
     font-size: 22px;
+}
+
+.categ{
+    background-color: teal;
+}
+
+.pari{
+    background-color: turquoise;
 }
 
 .monitor{
