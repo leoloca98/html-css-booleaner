@@ -1,0 +1,28 @@
+.header{
+    background-color:cornflowerblue;
+    background-image: url("../img/pattern.png");
+    height: 180px;
+    width: auto;
+}
+
+.logo{
+    margin-top: 75px;
+    height: 100px;
+    width: auto;
+}
+
+.Title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    font-weight: 900;
+    margin-top: auto;
+    margin-bottom: 0%;
+}
+
+.Author{
+    font-size: 25px;
+}
+
+.container{
+    width: 1000px;
+}
