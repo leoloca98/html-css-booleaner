@@ -45,6 +45,9 @@ main{
     font-size: 22px;
 }
 
+.Evidenziato{
+    background-color: yellow;
+}
 table{
     width: 100%;
 }
