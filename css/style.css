@@ -1,6 +1,7 @@
 .container{
     width: 1250px;
-    margin-left: 20%;
+    margin-left: auto   ;
+    margin-right: auto;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -48,23 +49,19 @@ main{
 .Evidenziato{
     background-color: yellow;
 }
-table{
-    width: 100%;
-}
 
 .categ{
-    height: 20px;
     background-color:rgb(10, 169, 243);
     color: white;
     font-size: 16px;
 }
 
-tbody{
-    height: 80px;
+.Lorem{
+width: 25%;
 }
+
 .pari{
     background-color: lightskyblue;
-    font-size: 20px;
 }
 
 .Interess{
