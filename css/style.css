@@ -25,11 +25,16 @@
 }
 
 .Author{
+    margin-top: auto;
     font-size: 25px;
 }
 
 b{
-    color: darkcyan;
+    color: cornflowerblue;
+}
+
+.data{
+    margin-top: auto;
 }
 
 .Didascalie{
@@ -40,14 +45,29 @@ main{
     font-size: 22px;
 }
 
+table{
+    width: 100%;
+}
+
 .categ{
-    background-color: teal;
+    height: 20px;
+    background-color:rgb(10, 169, 243);
+    color: white;
+    font-size: 16px;
 }
 
+tbody{
+    height: 80px;
+}
 .pari{
-    background-color: turquoise;
+    background-color: lightskyblue;
+    font-size: 20px;
 }
 
+.Interess{
+    font-size: 22px;
+    color: rgb(116, 115, 115);
+}
 .monitor{
     background-image: url("../img/monitor.jpg");
     background-repeat: no-repeat;
