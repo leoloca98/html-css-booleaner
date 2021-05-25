@@ -1,6 +1,6 @@
 .container{
     width: 1250px;
-    margin-left: auto   ;
+    margin-left: auto;
     margin-right: auto;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -8,6 +8,7 @@
 .header{
     background-color:cornflowerblue;
     background-image: url("../img/pattern.png");
+    margin: 0%;
     height: 180px;
     width: auto;
 }
@@ -19,7 +20,7 @@
 }
 
 .Title{
-    font-size: 50px;
+    font-size: 32px;
     font-weight: 900;
     margin-top: auto;
     margin-bottom: 0%;
@@ -27,15 +28,15 @@
 
 .Author{
     margin-top: auto;
-    font-size: 25px;
+    font-size: 18px;
 }
 
-b{
+.blue-color{
     color: cornflowerblue;
 }
 
-.data{
-    margin-top: auto;
+picture{
+    margin-left: 0%;
 }
 
 .Didascalie{
@@ -43,11 +44,22 @@ b{
 }
 
 main{
-    font-size: 22px;
+    font-size: 18px;
 }
 
-.Evidenziato{
+.mark{
     background-color: yellow;
+}
+
+ul{
+    list-style-position: inside;
+    padding-inline-start: 0%;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
 }
 
 .categ{
@@ -57,7 +69,7 @@ main{
 }
 
 .Lorem{
-width: 25%;
+    width: 25%;
 }
 
 .pari{
@@ -65,23 +77,26 @@ width: 25%;
 }
 
 .Interess{
-    font-size: 22px;
-    color: rgb(116, 115, 115);
-}
-.monitor{
-    background-image: url("../img/monitor.jpg");
-    background-repeat: no-repeat;
-    height: 200px;
-    width: auto;
-    color: white;
-    font-size: 150%;
-}
-.graph{
-    background-image: url("../img/graph.jpg");
-    background-repeat: no-repeat;
-    height: 200px;
-    width: auto;
-    color: white;
-    font-size: 150%;
+    font-size: 20px;
+    color: #747373;
 }
 
+#monitor{
+    background-image: url("../img/monitor.jpg");
+}
+
+#graph{
+    background-image: url("../img/graph.jpg");
+}
+
+.related-image{
+    height: 160px;
+    width: 208px;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10px;
+}
